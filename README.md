@@ -1,0 +1,2 @@
+# CompareAndSyncIndex
+对比和同步mysql8数据库的索引
